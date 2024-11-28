@@ -1,0 +1,84 @@
+{
+  "magic": "E!vIA5L86J2I",
+  "timestamp": "2024-11-28T01:17:42.772747+00:00",
+  "repo": "ietf-wg-nmop/draft-ietf-nmop-network-anomaly-lifecycle",
+  "labels": [
+    {
+      "name": "bug",
+      "description": "Something isn't working",
+      "color": "d73a4a"
+    },
+    {
+      "name": "CallForAdoption",
+      "description": "",
+      "color": "B82C95"
+    },
+    {
+      "name": "DirectorateReview",
+      "description": "",
+      "color": "A57F80"
+    },
+    {
+      "name": "documentation",
+      "description": "Improvements or additions to documentation",
+      "color": "0075ca"
+    },
+    {
+      "name": "duplicate",
+      "description": "This issue or pull request already exists",
+      "color": "cfd3d7"
+    },
+    {
+      "name": "Editorial",
+      "description": "",
+      "color": "ADA637"
+    },
+    {
+      "name": "enhancement",
+      "description": "New feature or request",
+      "color": "a2eeef"
+    },
+    {
+      "name": "good first issue",
+      "description": "Good for newcomers",
+      "color": "7057ff"
+    },
+    {
+      "name": "help wanted",
+      "description": "Extra attention is needed",
+      "color": "008672"
+    },
+    {
+      "name": "IESG Review",
+      "description": "",
+      "color": "3D11DF"
+    },
+    {
+      "name": "invalid",
+      "description": "This doesn't seem right",
+      "color": "e4e669"
+    },
+    {
+      "name": "question",
+      "description": "Further information is requested",
+      "color": "d876e3"
+    },
+    {
+      "name": "WGLC",
+      "description": "",
+      "color": "c2e0c6"
+    },
+    {
+      "name": "wontfix",
+      "description": "This will not be worked on",
+      "color": "ffffff"
+    },
+    {
+      "name": "YANG",
+      "description": "",
+      "color": "B9B881"
+    }
+  ],
+  "issues": [],
+  "pulls": []
+}
