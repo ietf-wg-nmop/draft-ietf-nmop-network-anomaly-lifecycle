@@ -13,3 +13,6 @@ else
 	    https://github.com/martinthomson/i-d-template $(LIBDIR)
 endif
 endif
+
+YANGDIR := yang
+include yang/yang.mk
